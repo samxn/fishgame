@@ -1,4 +1,3 @@
-# fishgame
+A simple game using vanilla JavaScript.
 
-# Credits:
- # Art: https://www.gamedeveloperstudio.com/
+Art Credits: https://www.gamedeveloperstudio.com/
