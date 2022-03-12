@@ -1,4 +1,4 @@
 # fishgame
 
-Credits:
-  Art: https://www.gamedeveloperstudio.com/
+# Credits:
+ # Art: https://www.gamedeveloperstudio.com/
